@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /wp-content/uploads
+Disallow: /wp-content
+Disallow: /wp-content/themes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-includes/js
+
